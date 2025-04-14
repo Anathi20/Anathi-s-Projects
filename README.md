@@ -14,5 +14,9 @@ This is a React application built with **Vite** for fast and efficient developme
  4.Start the development server with the command:
  `npm run dev`. This will start the development server.
 
+ # Alternative link
+
+ https://anathi-s-projects.vercel.app/
+
 
 
