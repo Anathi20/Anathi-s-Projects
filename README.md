@@ -1,31 +1,18 @@
 # Vite React Project
 
-This is a React application built with **Vite** for fast and efficient development.
+This is a React application built with **Vite** for fast and efficient development. To run the project locally, first, 
 
-## How to Run the Project Locally
+1.clone the repository to your local machine using the following command:
+`git clone https://github.com/Anathi20/Anathi-s-Projects.git`. 
 
-1. **Clone the Repository**  
-   Clone the repository to your local machine:
+2.navigate to the `Website-concept` directory by running:
+`cd Anathi-s-Projects/Website-concept`. 
 
-   ```bash
-   git clone https://github.com/Anathi20/Anathi-s-Projects.git
-   cd Anathi-s-Projects/vite-project
+3.install all the necessary dependencies for the project by running:
+`npm install`. 
 
-2.Install Dependencies
-Install all the necessary dependencies:
+ 4.Start the development server with the command:
+ `npm run dev`. This will start the development server.
 
-   ``bash 
-   npm install
 
- 3.Start development process
-After installing the dependencies, run the development server:
-
-   ``bash
-   npm run dev
-
- 4.Open the project at your browser
-   ``bash 
-
-   http://localhost:5173/
-   
 
